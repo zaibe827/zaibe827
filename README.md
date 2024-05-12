@@ -1,6 +1,6 @@
 ![MasterHead](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)
 <h1 align="center">Hi 👋, I'm Zuhaib Ul Hassan</h1>
-<h3 align="center">I am a passionate web developer from Pakistan</h3>
+<h3 align="center">I am a passionate Web Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif")
 
 *💬 Ask me about **Web, Data Science**
