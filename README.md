@@ -3,11 +3,12 @@
 <h3 align="center">I am a passionate web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif")
 
-*🌱 I’m currently learning **React Js, Blockchain**
+*💬 Ask me about **Web, Data Science**
 
-*💬 Ask me about **Web, Artificial Intelligence**
+*🌱 I’m currently learning **Blockchain**
 
-*📫 How to reach me **zuh1635@gmail.com**
+*📫 How to reach me **zuhaib.u.hassan@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
