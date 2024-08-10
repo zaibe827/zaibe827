@@ -3,9 +3,9 @@
 <h3 align="center"> Software Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif")
 
-*💬 Ask me about **Web, Data Science**
+*💬 Ask me about **Software Development**
 
-*🌱 I’m currently learning **Blockchain**
+*🌱 I’m currently learning **Software Devlopment Frameworks**
 
 *📫 How to reach me **zuhaib.u.hassan@gmail.com**
 
