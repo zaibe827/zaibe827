@@ -5,8 +5,6 @@
 
 *💬 Ask me about **Software Development**
 
-*🌱 I’m currently learning **Software Devlopment Frameworks**
-
 *📫 How to reach me **zuhaib.u.hassan@gmail.com**
 
 
